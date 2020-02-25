@@ -4,7 +4,7 @@
   <artifactId>Spring5-MVC-HelloWorld-XML-Example-App</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>Demo for Spring5 MVC HelloWorld Example Applicaion by using XML</name>
+  <name>Spring5-MVC-HelloWorld-XML-Example-App</name>
   <description>Demo for Spring5 MVC HelloWorld Example Applicaion by using XML</description>
   
   <properties>
