@@ -8,7 +8,7 @@
   <description>Demo for Spring5 MVC HelloWorld Example Applicaion by using XML</description>
   
   <properties>
-		<springframework.version>5.1.2.RELEASE</springframework.version>
+		<springframework.version>6.0.0</springframework.version>
 		<maven.war.plugin.version>3.2.2</maven.war.plugin.version>
 		<servlets.version>4.0.0</servlets.version>
 		<jsp.version>2.3.1</jsp.version>
